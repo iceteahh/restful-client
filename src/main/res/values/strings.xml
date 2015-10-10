@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IceteaLibrary</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="reload_message">Lỗi trong quá trình tải,\n Chạm vào để tải lại.</string>
+    <string name="data_empty">Không có dữ liệu!</string>
+</resources>

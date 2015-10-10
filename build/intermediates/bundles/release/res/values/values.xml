@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/icetea/StudioProjects/RadioOnline/icetea-library/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="accent">#FF4081</color>
+    <color name="accent_dark">#DD3D6A</color>
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="text_empty_color">#fff</color>
+    <!-- From: file:/Users/icetea/StudioProjects/RadioOnline/icetea-library/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="text_empty_size">15sp</dimen>
+    <!-- From: file:/Users/icetea/StudioProjects/RadioOnline/icetea-library/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">IceteaLibrary</string>
+    <string name="data_empty">Không có dữ liệu!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="reload_message">Lỗi trong quá trình tải,\n Chạm vào để tải lại.</string>
+    <!-- From: file:/Users/icetea/StudioProjects/RadioOnline/icetea-library/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    </style>
+</resources>
