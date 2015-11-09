@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/icetea/repositories/Restful-Cient/sample/build/intermediates/exploded-aar/Restful-Cient/restful-client/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea8e7e4e97eab76a02c3a10995086d7a250bf9f6">
+        <dex dex="/Users/icetea/repositories/Restful-Cient/sample/build/intermediates/pre-dexed/debug/classes-e8f2a0dfdef0443774f1ae5b98d74a888651c587.jar" />
+    </item>
+
+</items>
